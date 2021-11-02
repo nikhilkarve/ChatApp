@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82212457218",
+    "project_id": "chatapp-c5805",
+    "storage_bucket": "chatapp-c5805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82212457218:android:11c82a6644665332a2501b",
+        "android_client_info": {
+          "package_name": "com.nikhilkarve.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82212457218-8pja4aar1jb2bu8dduh9f45tsi4hvhlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMOdC9tOcVO65TkS76nliI21tEL6gQLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82212457218-8pja4aar1jb2bu8dduh9f45tsi4hvhlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
